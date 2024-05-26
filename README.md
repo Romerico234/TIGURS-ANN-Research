@@ -14,6 +14,6 @@ Our research aimed to achieve a mathematical and theoretical understanding of th
 
 ## Acknowledgments
 
-I extend my gratitude to the TIGURS Undergraduate Research Program for providing this opportunity.
+I extend my gratitude to the TIGURS Undergraduate Research Program for providing this opportunity. I would also like to thank Dr. Weixian Liao for serving as our research mentor and PI during this period.
 
 
